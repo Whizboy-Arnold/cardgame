@@ -1,2 +1,2 @@
 # cardgame
-consuming deck fo cards api
+consuming deck of cards api
